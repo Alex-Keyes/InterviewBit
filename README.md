@@ -23,6 +23,11 @@ Array math | [Max Sum Contiguous Subarray](https://www.interviewbit.com/problems
 Array math | Add One To Number | | | | |
 Array math | Repeat and Missing Number Array | | | | |		
 Array math | Flip | | | | |
+Arrangement | Max Non Negative SubArray |  | | | |
+Arrangement | Kth Row of Pascal's Triangle |  | | | | 
+Arrangement | Pascal Triangle Rows |  | | | | 
+Arrangement | Spiral Order Matrix II |  | | | | 
+Arrangement | Anti Diagonals |  | | | | 
 
 ##
 
