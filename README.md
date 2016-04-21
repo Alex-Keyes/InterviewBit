@@ -28,9 +28,16 @@ Simulation array | Kth Row of Pascal's Triangle |  | | | |
 Simulation array | Pascal Triangle Rows |  | | | | 
 Simulation array | Spiral Order Matrix II |  | | | | 
 Simulation array | Anti Diagonals |  | | | | 
-
-##
-
-
-
-
+Arrangement| Largest Number|  | | | | 
+Arrangement| Rotate Matrix|  | | | | 
+Arrangement| Next Permutation|  | | | | 
+Bucketing or sorting | Hotel Bookings Possible| | | | |
+Bucketing or sorting | Wave Array | | | | |
+Bucketing or sorting | Largest Number| | | | |
+Bucketing or sorting | Max Distance| | | | |
+Bucketing or sorting | Maximum Consecutive Gap| | | | |
+Bucketing or sorting | Find Duplicate in Array| | | | |
+Value ranges | Merge Intervals| | | | |
+Value ranges | Merge Overlapping Intervals| | | | |
+Space recycle| Set Matrix Zeros| | | | |
+Space recycle| First Missing Integer| | | | |
