@@ -66,4 +66,17 @@ Combinatorics | Grid Unique Paths | |
 ## Binary Search
 
 SubTopic          | Title  | Solution       | Notes
------------------ | -------| -------------- | 
+----------------- | -------| -------------- |
+Simple binary search |Matrix Search | | 	
+Simple binary search | Search for a Range | |	
+Simple binary search | Sorted Insert Position | | 	
+Search answer|Square Root of Integer | | 
+Search answer| Painter's Partition Problem | |
+Search answer| Allocate Books | |	
+Search step simulation |Implement Power Function	| | 
+Sort modification | Rotated Sorted Array Search | |
+Sort modification | Median of Array | |
+
+## Stack and Queue
+
+Multiple Stack | [Min Stack](https://www.interviewbit.com/problems/min-stack/) | [C++](/C++/minStack.cpp) |  
