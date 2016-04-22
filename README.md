@@ -1,6 +1,6 @@
 # [InterviewBit](https://www.interviewbit.com)
 ![Language](https://img.shields.io/badge/language-C++%2011-orange.svg)
-[![License](https://img.shields.io/badge/license-GNU-blue.svg)](./LICENSE.md) ![Progress](https://img.shields.io/badge/progress-28%20%2F%20302-ff69b4.svg)
+[![License](https://img.shields.io/badge/license-GNU-blue.svg)](./LICENSE.md) ![Progress](https://img.shields.io/badge/progress-36%20%2F%20302-ff69b4.svg)
 
 As of (2016-04-21), I have uncovered `27` Array Questions / `12` Math / `9` Binary Search / `19` String / `6` Bit Manipulation / `12` Two-Pointer Questions / `19` Linked List / `8` Stack + Queue  questions on [InterviewBit](https://www.interviewbit.com).  I am level `4` of `8` so I have a bit to go still.  I'll keep updating this repo as I go.  Below is a classification of each solution topic by topic.
 
@@ -39,7 +39,7 @@ Bucketing or sorting | Maximum Consecutive Gap | |
 Bucketing or sorting | [Find Duplicate in Array](https://www.interviewbit.com/problems/find-duplicate-in-array/) | [C++](/C++/repeatedNum.cpp) |
 Value ranges | [Merge Intervals](https://www.interviewbit.com/problems/merge-intervals/)|[C++](/C++/mergeIntervals.cpp) |
 Value ranges | Merge Overlapping Intervals| |
-Space recycle| Set Matrix Zeros| |
+Space recycle| [Set Matrix Zeros](https://www.interviewbit.com/problems/set-matrix-zeros/)|[C++](/C++/setMatrixZeros.cpp) |
 Space recycle| First Missing Integer| |
 Missing / repeated number | First Missing Integer| |
 Missing / repeated number | Repeat and Missing Number Array| |
