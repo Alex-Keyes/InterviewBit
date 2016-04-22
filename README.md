@@ -48,7 +48,7 @@ Missing / repeated number | N/3 Repeat Number| |
 	
 ## Math
 SubTopic          | Title  | Solution       | Notes
------------------ | -------| -------------- | 
+----------------- | -------| -------------- | -----
 Adhoc |Prime Sum | |
 Adhoc | Power Of Two Integers | |
 Adhoc |Prime Sum | |
@@ -66,7 +66,7 @@ Combinatorics | Grid Unique Paths | |
 ## Binary Search
 
 SubTopic          | Title  | Solution       | Notes
------------------ | -------| -------------- |
+----------------- | -------| -------------- | -----
 Simple binary search |Matrix Search | | 	
 Simple binary search | Search for a Range | |	
 Simple binary search | Sorted Insert Position | | 	
@@ -78,5 +78,6 @@ Sort modification | Rotated Sorted Array Search | |
 Sort modification | Median of Array | |
 
 ## Stack and Queue
-
-Multiple Stack | [Min Stack](https://www.interviewbit.com/problems/min-stack/) | [C++](/C++/minStack.cpp) |  
+SubTopic          | Title  | Solution       | Notes
+----------------- | -------| -------------- | -----
+Multiple Stack | [Min Stack](https://www.interviewbit.com/problems/min-stack/) | [C++](/C++/minStack.cpp) | IB has an annoying redefinition issue in their buffer.  
