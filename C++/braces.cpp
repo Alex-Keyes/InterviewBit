@@ -1,34 +1,33 @@
 int braces(string str)
 {
-  int N = str.size();
-  stack<char> Stk;
+  stack<char> Stack;
 
-  for(int i = 0; i < N; ++i) {
+  for(int i = 0; i < str.size(); ++i) {
     if(str[i] == ')') {
-      int cnt = 0;
-      while(Stk.top() != '(') {
-        Stk.pop();
-        cnt++;
+      int count = 0;
+      while(Stack.top() != '(') {
+        Stack.pop();
+        count++;
       }
-      Stk.pop();
-      if(cnt < 2)
+      Stack.pop();
+      if(count < 2)
         return 1;
     } else {
-      Stk.push(str[i]);
+      Stack.push(str[i]);
     }
   }
 
-  bool is = true;
+  bool redundant = true;
 
-  while(Stk.size()) {
-    if(Stk.top() == '(' || Stk.top() == ')') {
-      is = false;
+  while(Stack.size()) {
+    if(Stack.top() == '(' || Stack.top() == ')') {
+      redundant = false;
       break;
     }
-    Stk.pop();
+    Stack.pop();
   }
 
-  if(!is)
+  if(!redundant)
     return 1;
   return 0;
 }
