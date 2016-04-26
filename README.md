@@ -81,3 +81,6 @@ Sort modification | Median of Array | |
 SubTopic          | Title  | Solution       | Notes
 ----------------- | -------| -------------- | -----
 Multiple Stack | [Min Stack](https://www.interviewbit.com/problems/min-stack/) | [C++](/C++/minStack.cpp) | IB has an annoying redefinition issue in their buffer.  
+Stack math | [Evaluate Expression](https://www.interviewbit.com/problems/evaluate-expression/) | [C++](/C++/evalRPN.cpp) | 
+used helper function isOperator to keep things simple
+
