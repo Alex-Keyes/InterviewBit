@@ -1,6 +1,6 @@
 # [InterviewBit](https://www.interviewbit.com)
 ![Language](https://img.shields.io/badge/language-C++%2011-orange.svg)
-[![License](https://img.shields.io/badge/license-GNU-blue.svg)](./LICENSE.md) ![Progress](https://img.shields.io/badge/progress-38%20%2F%20302-ff69b4.svg)
+[![License](https://img.shields.io/badge/license-GNU-blue.svg)](./LICENSE.md) ![Progress](https://img.shields.io/badge/progress-39%20%2F%20302-ff69b4.svg)
 
 As of (2016-04-27), I have uncovered `27` Array Questions / `12` Math / `9` Binary Search / `19` String / `6` Bit Manipulation / `12` Two-Pointer Questions / `19` Linked List / `8` Stack + Queue  questions on [InterviewBit](https://www.interviewbit.com).  I am level `4` of `8` so I have a bit to go still.  I'll keep updating this repo as I go.  Below is a classification of each solution topic by topic.
 
@@ -85,4 +85,8 @@ Stack math | [Evaluate Expression](https://www.interviewbit.com/problems/evaluat
 Stack Simple | [Redundant Braces](https://www.interviewbit.com/problems/redundant-braces/) | [C++](/C++/braces.cpp) | 
 CleverStack | [Nearest Smaller Element](https://www.interviewbit.com/problems/nearest-smaller-element/) | [C++](/C++/prevSmaller.cpp) | Forgot to use a solution vector the first time around.  
 
+## Linked Lists
+SubTopic          | Title  | Solution       | Notes
+----------------- | -------| -------------- | -----
+Examples | [Intersection of Linked List](https://www.interviewbit.com/problems/intersection-of-linked-lists/) | [C++](/C++/getIntersectionNode.cpp) | 
 
