@@ -18,8 +18,8 @@ As of (2016-04-21), I have uncovered `27` Array Questions / `12` Math / `9` Bina
 ## [Arrays](https://www.interviewbit.com/courses/programming/topics/arrays/)
 SubTopic          | Title  | Solution       | Notes
 --------------- | ----------| -----------| -----
-Array math | [Min Steps in Infinite Grid](https://www.interviewbit.com/problems/min-steps-in-infinite-grid/) |	[C++](/C++/coverPoints.cpp) | O(n) | O(1) |Simpler Than I originally thought.
-Array math | [Max Sum Contiguous Subarray](https://www.interviewbit.com/problems/max-sum-contiguous-subarray/) | [C++](/C++/maxSubArray.cpp) | O(n) | O(1) | |
+Array math | [Min Steps in Infinite Grid](https://www.interviewbit.com/problems/min-steps-in-infinite-grid/) |	[C++](/C++/coverPoints.cpp) | Simpler Than I originally thought.
+Array math | [Max Sum Contiguous Subarray](https://www.interviewbit.com/problems/max-sum-contiguous-subarray/) | [C++](/C++/maxSubArray.cpp) | |
 Array math | Add One To Number | | 
 Array math | Repeat and Missing Number Array | | 
 Array math | Flip | |
