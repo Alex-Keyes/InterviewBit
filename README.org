@@ -1,9 +1,12 @@
 
-#+TITLE: InterviewBit Solutions [[file:img/ib-logo-square.png]]
+*InterviewBit Solutions 
+[[#+TITLE: file:img/ib-logo-square.png]]
 
 [[https://img.shields.io/badge/language-Python%2520%252F%2520C++%252011-orange.svg][https://img.shields.io/badge/language-C++-orange.svg]] [[https://img.shields.io/badge/License-GNU-red.svg][https://img.shields.io/badge/License-GNU-red.svg]]
 
-This is a repository of solutions to all problems I've solved on InterviewBit.  I am not quite sure exactly how many problems there are on the website, but I'll be updating this with every problem I solve. Please issue a pull request if you think you have a better solution or something I could improve upon. 
+This is a repository of solutions to all problems I've solved on InterviewBit.  
+I am not quite sure exactly how many problems there are on the website, but I'll be updating this with every problem I solve. 
+Please issue a pull request if you think you have a better solution or something I could improve upon. 
 
 * Topics
  - [[Arrays][Arrays]] 
