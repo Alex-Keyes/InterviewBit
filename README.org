@@ -1,7 +1,6 @@
 #+TITLE: InterviewBit
 #+html_head_extra: <link rel="stylesheet" type="text/css" href="../../css/readtheorg.css" />
 
-https://ibassets.s3.amazonaws.com/static-assets/ib-logo-square.png
 
 * Topics
  - [[Arrays][Arrays]] 
@@ -86,9 +85,9 @@ https://ibassets.s3.amazonaws.com/static-assets/ib-logo-square.png
 |                |                         |          |                                                        |
 
 ** [[https://www.interviewbit.com/courses/programming/topics/linked-lists/][Linked Lists]]
-| Subtopic | Title                                                                                              | Solution                            | Notes |
-| Examples | [Intersection of Linked List](https://www.interviewbit.com/problems/intersection-of-linked-lists/) | [C++](/C++/getIntersectionNode.cpp) |       |
-|          |                                                                                                    |                                     |       |
+| Subtopic | Title                       | Solution | Notes |
+| Examples | [[https://www.interviewbit.com/problems/intersection-of-linked-lists/][Intersection of Linked List]] | [[/C++/getIntersectionNode.cpp][C++]]      |       |
+|          |                             |          |       |
 
 
 
