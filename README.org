@@ -14,7 +14,7 @@ https://ibassets.s3.amazonaws.com/static-assets/ib-logo-square.png
  - [[Stack and Queue][Stack and Queue]]
 
 * Problem Lists
-** [[https://www.interviewbit.com/courses/programming/topics/arrays][Arrays]]u]
+** [[https://www.interviewbit.com/courses/programming/topics/arrays][Arrays]]
  | SubTopic                  | Title                           | Solution | Notes                              |
  | Array math                | [[https://www.interviewbit.com/problems/min-steps-in-infinite-grid/][Min Steps in Infinite Grid]]      | [[/C++/coverPoints.cpp][C++]]      | Simpler Than I originally thought. |
  | Array math                | [[https://www.interviewbit.com/problems/max-sum-contiguous-subarray/][Max Sum Contiguous Subarray]]     | [[/C++/maxSubArray.cpp][C++]]      |                                    |
