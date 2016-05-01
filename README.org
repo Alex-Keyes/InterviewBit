@@ -1,4 +1,4 @@
-[[file:img/ib-logo-square.png]]
+#+Title[[file:img/ib-logo-square.png]]
 
 #+TITLE: InterviewBit Solutions
 
@@ -89,6 +89,7 @@
 | Subtopic | Title                       | Solution | Notes |
 | Examples | [[https://www.interviewbit.com/problems/intersection-of-linked-lists/][Intersection of Linked List]] | [[/C++/getIntersectionNode.cpp][C++]]      |       |
 |          |                             |          |       |
+
 
 
 
