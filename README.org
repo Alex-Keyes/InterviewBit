@@ -1,23 +1,18 @@
-* [[InterviewBithttps://www.interviewbit.com]]
-![Language](https://img.shields.io/badge/language-C++%2011-orange.svg)
-[![License](https://img.shields.io/badge/license-GNU-blue.svg)](./LICENSE.md) ![Progress](https://img.shields.io/badge/progress-39%20%2F%20302-ff69b4.svg)
-
-As of (2016-04-27), I have uncovered `27` Array Questions / `12` Math / `9` Binary Search / `19` String / `6` Bit Manipulation / `12` Two-Pointer Questions / `19` Linked List / `8` Stack + Queue  questions on [InterviewBit](https://www.interviewbit.com).  I am level `4` of `8` so I have a bit to go still.  I'll keep updating this repo as I go.  Below is a classification of each solution topic by topic.
-
+#+TITLE: InterviewBit
+#+html_head_extra: <link rel="stylesheet" type="text/css" href="../../css/readtheorg.css" />
 
 * Topics
+ - [[Arrays][Arrays]] 
+ - [[Math][Math]]
+ - [[Binary Search][Binary Search]] 
+ - [[String][String]]
+ - [[Bit Manipulation][Bit Manipulation]]
+ - [[Two-Pointers][Two-Pointers]]
+ - [[Linked Lists][Linked Lists]]
+ - [[Stack and Queue][Stack and Queue]]
 
-** [Arrays](https://github.com/Alex-Keyes/InterviewBit#Arrays)
-** [Math](https://github.com/Alex-Keyes/InterviewBit#math)
-** [Binary Search](https://github.com/Alex-Keyes/InterviewBit#Binary-search)
-** [String](https://github.com/Alex-Keyes/InterviewBit#String)
-** [Bit Manipulation](https://github.com/Alex-Keyes/InterviewBit#Bit-Manipulation)
-** [Two-Pointers](https://github.com/Alex-Keyes/InterviewBit#Two-Pointers)
-** [Linked Lists](https://github.com/Alex-Keyes/InterviewBit#LinkedLists)
-** [Stack + Queue](https://github.com/Alex-Keyes/InterviewBit#Stack+Queue)
-
-
-* Arrays
+* Problem Lists
+** Arrays
 ## [Arrays](https://www.interviewbit.com/courses/programming/topics/arrays/)
 | SubTopic                  | Title                                                                                             | Solution                       | Notes                              |
 | Array math                | [Min Steps in Infinite Grid](https://www.interviewbit.com/problems/min-steps-in-infinite-grid/)   | 	[C++](/C++/coverPoints.cpp)  | Simpler Than I originally thought. |
@@ -48,7 +43,7 @@ As of (2016-04-27), I have uncovered `27` Array Questions / `12` Math / `9` Bina
 | Missing / repeated number | Find Duplicate in Array                                                                           |                                |                                    |
 | Missing / repeated number | N/3 Repeat Number                                                                                 |                                |                                    |
 
-* Math
+** Math
 | SubTopic        | Title                                | Solution | Notes |
 |                 |                                      |          |       |
 |-----------------+--------------------------------------+----------+-------|
@@ -66,7 +61,7 @@ As of (2016-04-27), I have uncovered `27` Array Questions / `12` Math / `9` Bina
 | Number encoding | Rearrange Array                      |          |       |
 | Combinatorics   | Grid Unique Paths                    |          |       |
 
-* Binary Search
+** Binary Search
 
 | SubTopic               | Title                       | Solution | Notes |
 |                        |                             |          |       |
@@ -81,17 +76,20 @@ As of (2016-04-27), I have uncovered `27` Array Questions / `12` Math / `9` Bina
 | Sort modification      | Rotated Sorted Array Search |          |       |
 | Sort modification      | Median of Array             |          |       |
 
-* Stack and Queue 
+** Stack and Queue 
 | SubTopic       | Title                                                                                     | Solution                    | Notes                                                  |   |   |   |
 |                |                                                                                           |                             |                                                        |   |   |   |
-| Multiple Stack | [Min Stack](https://www.interviewbit.com/problems/min-stack/)                             | [C++](/C++/minStack.cpp)    | IB has an annoying redefinition issue in their buffer. |   |   |   |
+| Multiple Stack | [[ https://www.interviewbit.com/problems/min-stack/][Min Stack]]                          | [C++](/C++/minStack.cpp)    | IB has an annoying redefinition issue in their buffer. |   |   |   |
 | Stack math     | [Evaluate Expression](https://www.interviewbit.com/problems/evaluate-expression/)         | [C++](/C++/evalRPN.cpp)     |                                                        |   |   |   |
 | Stack Simple   | [Redundant Braces](https://www.interviewbit.com/problems/redundant-braces/)               | [C++](/C++/braces.cpp)      |                                                        |   |   |   |
 | CleverStack    | [Nearest Smaller Element](https://www.interviewbit.com/problems/nearest-smaller-element/) | [C++](/C++/prevSmaller.cpp) | Forgot to use a solution vector the first time around. |   |   |   |
 |                |                                                                                           |                             |                                                        |   |   |   |
 
-* Linked Lists
+** Linked Lists
 | Subtopic | Title                                                                                              | Solution                            | Notes |
 | Examples | [Intersection of Linked List](https://www.interviewbit.com/problems/intersection-of-linked-lists/) | [C++](/C++/getIntersectionNode.cpp) |       |
 |          |                                                                                                    |                                     |       |
+
+
+
 
