@@ -1,4 +1,5 @@
-#+TITLE: [[file:img/ib-logo-square.png]]
+#+ATTR_HTML: style="float:center;"
+[[file:img/ib-logo-square.png]]
 
 * InterviewBit Solutions 
 
@@ -83,9 +84,9 @@ Please issue a pull request if you think you have a better solution or something
 | Sort modification      | Median of Array             |          |       |
 
 ** [[https://www.interviewbit.com/courses/programming/topics/stacks-and-queues/][Stack and Queue]] 
-| SubTopic       | Title                   | Solution | Notes                                                  |   
-| Multiple Stack | [[ https://www.interviewbit.com/problems/min-stack/][Min Stack]]               | [[/C++/minStack.cpp][C++]]      | IB has an annoying redefinition issue in their buffer. |  
-| Stack math     | [[https://www.interviewbit.com/problems/evaluate-expression/][Evaluate Expression]]     | [[/C++/evalRPN.cpp][C++]]      |                                                        | 
+| SubTopic       | Title                   | Solution | Notes                                                  |
+| Multiple Stack | [[ https://www.interviewbit.com/problems/min-stack/][Min Stack]]               | [[/C++/minStack.cpp][C++]]      | IB has an annoying redefinition issue in their buffer. |
+| Stack math     | [[https://www.interviewbit.com/problems/evaluate-expression/][Evaluate Expression]]     | [[/C++/evalRPN.cpp][C++]]      |                                                        |
 | Stack Simple   | [[https://www.interviewbit.com/problems/redundant-braces/][Redundant Braces]]        | [[/C++/braces.cpp][C++]]      |                                                        |
 | CleverStack    | [[https://www.interviewbit.com/problems/nearest-smaller-element/][Nearest Smaller Element]] | [[/C++/prevSmaller.cpp][C++]]      | Forgot to use a solution vector the first time around. |
 |                |                         |          |                                                        |
