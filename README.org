@@ -2,6 +2,7 @@
 #+html_head_extra: <link rel="stylesheet" type="text/css" href="../../css/readtheorg.css" />
 [[https://img.shields.io/badge/language-Python%2520%252F%2520C++%252011-orange.svg][https://img.shields.io/badge/language-C++-orange.svg]]
 
+[[https://img.shields.io/badge/License-GNU-red.svg][https://img.shields.io/badge/License-GNU-red.svg]]
 * Topics
  - [[Arrays][Arrays]] 
  - [[Math][Math]]
