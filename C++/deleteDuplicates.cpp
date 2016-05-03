@@ -16,4 +16,4 @@ ListNode* Solution::deleteDuplicates(ListNode *head) {
     cur = cur->next;
   }
   return fakeHead->next;
-    }
+}
