@@ -1,4 +1,4 @@
-ListNode* Solution::deleteDuplicates(ListNode *head) {
+Solution::deleteDuplicates(ListNode *head) {
   if (head == NULL) return NULL;
   ListNode* fakeHead = new ListNode(0);
   fakeHead->next = head;
@@ -16,4 +16,4 @@ ListNode* Solution::deleteDuplicates(ListNode *head) {
     cur = cur->next;
   }
   return fakeHead->next;
-    }
+}

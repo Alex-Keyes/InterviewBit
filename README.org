@@ -94,7 +94,8 @@ Please issue a pull request if you think you have a better solution or something
 | Subtopic       | Title                                 | Solution | Notes |
 | Examples       | [[https://www.interviewbit.com/problems/intersection-of-linked-lists/][Intersection of Linked List]]           | [[/C++/getIntersectionNode.cpp][C++]]      |       |
 | List 2 Pointer | [[https://www.interviewbit.com/problems/palindrome-list/][Palindrome List]]                       | [[file:C++/listPalindrome.cpp][C++]]      |       |
-| List 2 Pointer | [[https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list-ii/][Remove Duplicates from sorted list ii]] | [[file:C++/deleteDuplicates.cpp][C++]]      |       |
+| List 2 Pointer | [[https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list/][Remove Duplicates from sorted list i]]  | [[file:C++/deleteDuplicatesi.cpp][C++]]      |       |
+| List 2 Pointer | [[https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list-ii/][Remove Duplicates from sorted list ii]] | [[file:C++/deleteDuplicatesii.cpp][C++]]      |       |
 
 
 
