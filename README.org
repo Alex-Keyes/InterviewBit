@@ -97,6 +97,7 @@ Please issue a pull request if you think you have a better solution or something
 | List 2 Pointer | [[https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list/][Remove Duplicates from sorted list i]]  | [[file:C++/deleteDuplicatesi.cpp][C++]]      |       |
 | List 2 Pointer | [[https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list-ii/][Remove Duplicates from sorted list ii]] | [[file:C++/deleteDuplicatesii.cpp][C++]]      |       |
 | List 2 Pointer | [[https://www.interviewbit.com/problems/remove-nth-node-from-list-end/][Remove nth node from list end]]         | [[file:C++/removeNthFromEnd.cpp][C++]]      |       |
+| List 2 Pointer | [[https://www.interviewbit.com/problems/rotate-list/][Rotate List]]                           | [[file:C++/rotateRight.cpp][C++]]      |       |
 
 
 
