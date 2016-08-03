@@ -27,7 +27,7 @@ Please issue a pull request if you think you have a better solution or something
  | Array math                | Flip                            |          |                                    |
  | Simulation array          | [[(https://www.interviewbit.com/problems/max-non-negative-subarray/][Max Non Negative SubArray]]       | [[/C++/maxSet.cpp][C++]]      |                                    |
  | Simulation array          | Kth Row of Pascal's Triangle    |          |                                    |
- | Simulation array          | Pascal Triangle Rows            |          |                                    |
+ | Simulation array          | Pascal Triangle Rows            | [[/Python/generatePascal.py][Python]]         |                                    |
  | Simulation array          | Spiral Order Matrix II          |          |                                    |
  | Simulation array          | [[https://www.interviewbit.com/problems/anti-diagonals/][Anti Diagonals]]                  | [[/C++/diagonal.cpp][C++]]      |                                    |
  | Arrangement               | [[https://www.interviewbit.com/problems/rotate-matrix/][Rotate Matrix]]                   | [[/C++/rotate.cpp][C++]]      |                                    |
