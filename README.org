@@ -53,7 +53,7 @@ Please issue a pull request if you think you have a better solution or something
 |                 |                                      |            |       |
 |-----------------+--------------------------------------+------------+-------|
 | Adhoc           | Prime Sum                            |            |       |
-| Adhoc           | Power Of Two Integers                |            |       |
+| Adhoc           | [[https://www.interviewbit.com/problems/power-of-two-integers/][Power of Two Integers]]                | [[file:C++/isPower.cpp][C++]] [[file:Python/isPower.py][Python]] |       |
 | Adhoc           | Prime Sum                            |            |       |
 | Base conversion | Excel Column Number                  |            |       |
 | Base conversion | Excel Column Title                   |            |       |
