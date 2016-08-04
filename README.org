@@ -1,16 +1,16 @@
 [[file:img/ib-logo-square.png]]
-* InterviewBit Solutions 
+* InterviewBit Solutions
 
 [[https://img.shields.io/badge/language-Python%2520%252F%2520C++%252011-orange.svg][https://img.shields.io/badge/language-C++-orange.svg]] [[https://img.shields.io/badge/License-GNU-red.svg][https://img.shields.io/badge/License-GNU-red.svg]] [[https://github.com/syl20bnr/spacemacs][file:https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg]]
 
-This is a repository of solutions to all problems I've solved on InterviewBit.  
-I am not quite sure exactly how many problems there are on the website, but I'll be updating this with every problem I solve. 
-Please issue a pull request if you think you have a better solution or something I could improve upon. 
+This is a repository of solutions to all problems I've solved on InterviewBit.
+I am not quite sure exactly how many problems there are on the website, but I'll be updating this with every problem I solve.
+Please issue a pull request if you think you have a better solution or something I could improve upon.
 
 * Topics
- - [[Arrays][Arrays]] 
+ - [[Arrays][Arrays]]
  - [[Math][Math]]
- - [[Binary Search][Binary Search]] 
+ - [[Binary Search][Binary Search]]
  - [[String][String]]
  - [[Bit Manipulation][Bit Manipulation]]
  - [[Two-Pointers][Two-Pointers]]
@@ -19,35 +19,35 @@ Please issue a pull request if you think you have a better solution or something
 
 * Problem Lists
 ** [[https://www.interviewbit.com/courses/programming/topics/arrays][Arrays]]
- | SubTopic                  | Title                           | Solution | Notes                              |
- | Array math                | [[https://www.interviewbit.com/problems/min-steps-in-infinite-grid/][Min Steps in Infinite Grid]]      | [[/C++/coverPoints.cpp][C++]]      | Simpler Than I originally thought. |
- | Array math                | [[https://www.interviewbit.com/problems/max-sum-contiguous-subarray/][Max Sum Contiguous Subarray]]     | [[/C++/maxSubArray.cpp][C++]]      |                                    |
- | Array math                | Add One To Number               |          |                                    |
- | Array math                | Repeat and Missing Number Array |          |                                    |
- | Array math                | Flip                            |          |                                    |
- | Simulation array          | [[(https://www.interviewbit.com/problems/max-non-negative-subarray/][Max Non Negative SubArray]]       | [[/C++/maxSet.cpp][C++]]      |                                    |
- | Simulation array          | Kth Row of Pascal's Triangle    |          |                                    |
- | Simulation array          | [[https://www.interviewbit.com/problems/pascal-triangle-rows/][Pascal Triangle Rows]]            | [[/Python/generatePascal.py][Python]]   |                                    |
- | Simulation array          | Spiral Order Matrix II          |          |                                    |
- | Simulation array          | [[https://www.interviewbit.com/problems/anti-diagonals/][Anti Diagonals]]                  | [[/C++/diagonal.cpp][C++]]      |                                    |
- | Arrangement               | [[https://www.interviewbit.com/problems/rotate-matrix/][Rotate Matrix]]                   | [[/C++/rotate.cpp][C++]]      |                                    |
- | Arrangement               | [[https://www.interviewbit.com/problems/largest-number/][Largest Number]]                  | [[/C++/largestNum.cpp][C++]]      |                                    |
- | Arrangement               | Next Permutation                |          |                                    |
- | Bucketing or sorting      | Hotel Bookings Possible         |          |                                    |
- | Bucketing or sorting      | [[https://www.interviewbit.com/problems/wave-array/][Wave Array]]                      | [[/C++/wave.cpp][C++]]      |                                    |
- | Bucketing or sorting      | [[https://www.interviewbit.com/problems/largest-number/][Largest Number]]                  | [[/C++/largestNum.cpp][C++]]      |                                    |
- | Bucketing or sorting      | Max Distance                    |          |                                    |
- | Bucketing or sorting      | Maximum Consecutive Gap         |          |                                    |
- | Bucketing or sorting      | [[https://www.interviewbit.com/problems/find-duplicate-in-array/][Find Duplicate in Array]]         | [[/C++/repeatedNum.cpp][C++]]      |                                    |
- | Value ranges              | [[https://www.interviewbit.com/problems/merge-intervals/][Merge Intervals]]                 | [[/C++/mergeIntervals.cpp][C++]]      |                                    |
- | Value ranges              | Merge Overlapping Intervals     |          |                                    |
- | Space recycle             | [[https://www.interviewbit.com/problems/set-matrix-zeros/][Set Matrix Zeros]]                | [[/C++/setMatrixZeros.cpp][C++]]      |                                    |
- | Space recycle             | First Missing Integer           |          |                                    |
- | Missing / repeated number | First Missing Integer           |          |                                    |
- | Missing / repeated number | Repeat and Missing Number Array |          |                                    |
- | Missing / repeated number | Find Duplicate in Array         |          |                                    |
- | Missing / repeated number | N/3 Repeat Number               |          |                                    |
- 
+ | SubTopic                  | Title                           | Solution   | Notes                              |
+ | Array math                | [[https://www.interviewbit.com/problems/min-steps-in-infinite-grid/][Min Steps in Infinite Grid]]      | [[/C++/coverPoints.cpp][C++]]        | Simpler Than I originally thought. |
+ | Array math                | [[https://www.interviewbit.com/problems/max-sum-contiguous-subarray/][Max Sum Contiguous Subarray]]     | [[/C++/maxSubArray.cpp][C++]]        |                                    |
+ | Array math                | Add One To Number               |            |                                    |
+ | Array math                | Repeat and Missing Number Array |            |                                    |
+ | Array math                | Flip                            |            |                                    |
+ | Simulation array          | [[(https://www.interviewbit.com/problems/max-non-negative-subarray/][Max Non Negative SubArray]]       | [[/C++/maxSet.cpp][C++]]        |                                    |
+ | Simulation array          | Kth Row of Pascal's Triangle    |            |                                    |
+ | Simulation array          | [[https://www.interviewbit.com/problems/pascal-triangle-rows/][Pascal Triangle Rows]]            | [[/Python/generatePascal.py][Python]]     |                                    |
+ | Simulation array          | [[https://www.interviewbit.com/problems/spiral-order-matrix-ii/][Spiral Order Matrix II]]          | [[/C++/generateMatrix.cpp][C++]] [[/Python/generateMatrix.py][Python]] |                                    |
+ | Simulation array          | [[https://www.interviewbit.com/problems/anti-diagonals/][Anti Diagonals]]                  | [[/C++/diagonal.cpp][C++]]        |                                    |
+ | Arrangement               | [[https://www.interviewbit.com/problems/rotate-matrix/][Rotate Matrix]]                   | [[/C++/rotate.cpp][C++]]        |                                    |
+ | Arrangement               | [[https://www.interviewbit.com/problems/largest-number/][Largest Number]]                  | [[/C++/largestNum.cpp][C++]]        |                                    |
+ | Arrangement               | Next Permutation                |            |                                    |
+ | Bucketing or sorting      | Hotel Bookings Possible         |            |                                    |
+ | Bucketing or sorting      | [[https://www.interviewbit.com/problems/wave-array/][Wave Array]]                      | [[/C++/wave.cpp][C++]]        |                                    |
+ | Bucketing or sorting      | [[https://www.interviewbit.com/problems/largest-number/][Largest Number]]                  | [[/C++/largestNum.cpp][C++]]        |                                    |
+ | Bucketing or sorting      | Max Distance                    |            |                                    |
+ | Bucketing or sorting      | Maximum Consecutive Gap         |            |                                    |
+ | Bucketing or sorting      | [[https://www.interviewbit.com/problems/find-duplicate-in-array/][Find Duplicate in Array]]         | [[/C++/repeatedNum.cpp][C++]]        |                                    |
+ | Value ranges              | [[https://www.interviewbit.com/problems/merge-intervals/][Merge Intervals]]                 | [[/C++/mergeIntervals.cpp][C++]]        |                                    |
+ | Value ranges              | Merge Overlapping Intervals     |            |                                    |
+ | Space recycle             | [[https://www.interviewbit.com/problems/set-matrix-zeros/][Set Matrix Zeros]]                | [[/C++/setMatrixZeros.cpp][C++]]        |                                    |
+ | Space recycle             | First Missing Integer           |            |                                    |
+ | Missing / repeated number | First Missing Integer           |            |                                    |
+ | Missing / repeated number | Repeat and Missing Number Array |            |                                    |
+ | Missing / repeated number | Find Duplicate in Array         |            |                                    |
+ | Missing / repeated number | N/3 Repeat Number               |            |                                    |
+
 ** [[http://interviewbit.com/courses/programming/topics/math/][Math]]
 | SubTopic        | Title                                | Solution | Notes |
 |                 |                                      |          |       |
@@ -67,7 +67,7 @@ Please issue a pull request if you think you have a better solution or something
 | Combinatorics   | Grid Unique Paths                    |          |       |
 
 ** [[https://www.interviewbit.com/courses/programming/topics/binary-search/][Binary Search]]
-   
+
 | SubTopic               | Title                       | Solution | Notes |
 |                        |                             |          |       |
 |------------------------+-----------------------------+----------+-------|
@@ -81,7 +81,7 @@ Please issue a pull request if you think you have a better solution or something
 | Sort modification      | Rotated Sorted Array Search |          |       |
 | Sort modification      | Median of Array             |          |       |
 
-** [[https://www.interviewbit.com/courses/programming/topics/stacks-and-queues/][Stack and Queue]] 
+** [[https://www.interviewbit.com/courses/programming/topics/stacks-and-queues/][Stack and Queue]]
 | SubTopic       | Title                   | Solution | Notes                                                  |
 | Multiple Stack | [[ https://www.interviewbit.com/problems/min-stack/][Min Stack]]               | [[/C++/minStack.cpp][C++]]      | IB has an annoying redefinition issue in their buffer. |
 | Stack math     | [[https://www.interviewbit.com/problems/evaluate-expression/][Evaluate Expression]]     | [[/C++/evalRPN.cpp][C++]]      |                                                        |
@@ -99,6 +99,3 @@ Please issue a pull request if you think you have a better solution or something
 | List 2 Pointer | [[https://www.interviewbit.com/problems/remove-nth-node-from-list-end/][Remove nth node from list end]]         | [[file:C++/removeNthFromEnd.cpp][C++]]      |       |
 | List 2 Pointer | [[https://www.interviewbit.com/problems/rotate-list/][Rotate List]]                           | [[file:C++/rotateRight.cpp][C++]]      |       |
 | List 2 Pointer | [[https://www.interviewbit.com/problems/reverse-link-list-ii/][Reverse Linked List II]]                | [[file:C++/reverseBetween.cpp][C++]]      |       |
-
-
-
