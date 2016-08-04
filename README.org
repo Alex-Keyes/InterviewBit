@@ -49,22 +49,22 @@ Please issue a pull request if you think you have a better solution or something
  | Missing / repeated number | N/3 Repeat Number               |            |                                    |
 
 ** [[http://interviewbit.com/courses/programming/topics/math/][Math]]
-| SubTopic        | Title                                | Solution | Notes |
-|                 |                                      |          |       |
-|-----------------+--------------------------------------+----------+-------|
-| Adhoc           | Prime Sum                            |          |       |
-| Adhoc           | Power Of Two Integers                |          |       |
-| Adhoc           | Prime Sum                            |          |       |
-| Base conversion | Excel Column Number                  |          |       |
-| Base conversion | Excel Column Title                   |          |       |
-| Digit op        | Palindrome Integer                   |          |       |
-| Digit op        | [[https://www.interviewbit.com/problems/reverse-integer/][Reverse Integer]] |          |       |
-| Number theory   | Greatest Common Divisor              |          |       |
-| Number theory   | Trailing Zeros in Factorial          | [[file:Python/trailingZeros.py][Python]]   |       |
-| Number theory   | Sorted Permutation Rank              |          |       |
-| Number theory   | Sorted Permutation Rank with Repeats |          |       |
-| Number encoding | Rearrange Array                      |          |       |
-| Combinatorics   | Grid Unique Paths                    |          |       |
+| SubTopic        | Title                                | Solution   | Notes |
+|                 |                                      |            |       |
+|-----------------+--------------------------------------+------------+-------|
+| Adhoc           | Prime Sum                            |            |       |
+| Adhoc           | Power Of Two Integers                |            |       |
+| Adhoc           | Prime Sum                            |            |       |
+| Base conversion | Excel Column Number                  |            |       |
+| Base conversion | Excel Column Title                   |            |       |
+| Digit op        | Palindrome Integer                   |            |       |
+| Digit op        | [[https://www.interviewbit.com/problems/reverse-integer/][Reverse Integer]]                      | [[file:C++/reverse.cpp][C++]] [[file:Python/reverse.py][Python]] |       |
+| Number theory   | Greatest Common Divisor              |            |       |
+| Number theory   | Trailing Zeros in Factorial          | [[file:Python/trailingZeros.py][Python]]     |       |
+| Number theory   | Sorted Permutation Rank              |            |       |
+| Number theory   | Sorted Permutation Rank with Repeats |            |       |
+| Number encoding | Rearrange Array                      |            |       |
+| Combinatorics   | Grid Unique Paths                    |            |       |
 
 ** [[https://www.interviewbit.com/courses/programming/topics/binary-search/][Binary Search]]
 
