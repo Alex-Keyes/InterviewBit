@@ -52,9 +52,8 @@ Please issue a pull request if you think you have a better solution or something
 | SubTopic        | Title                                | Solution   | Notes |
 |                 |                                      |            |       |
 |-----------------+--------------------------------------+------------+-------|
-| Adhoc           | [[https://www.interviewbit.com/problems/prime-sum/][Prime Sum]]                            | [[file:Python/primeSum.py][Python]]           |       |
+| Adhoc           | [[https://www.interviewbit.com/problems/prime-sum/][Prime Sum]]                            | [[file:Python/primeSum.py][Python]] [[file:C++/primeSum.cpp][C++]          |       |
 | Adhoc           | [[https://www.interviewbit.com/problems/power-of-two-integers/][Power of Two Integers]]                | [[file:C++/isPower.cpp][C++]] [[file:Python/isPower.py][Python]] |       |
-| Adhoc           | Prime Sum                            |            |       |
 | Base conversion | Excel Column Number                  |            |       |
 | Base conversion | Excel Column Title                   |            |       |
 | Digit op        | Palindrome Integer                   |            |       |
