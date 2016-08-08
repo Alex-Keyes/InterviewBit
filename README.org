@@ -56,7 +56,7 @@ Please issue a pull request if you think you have a better solution or something
 | Adhoc           | [[https://www.interviewbit.com/problems/power-of-two-integers/][Power of Two Integers]]                | [[file:C++/isPower.cpp][C++]] [[file:Python/isPower.py][Python]] |       |
 | Base conversion | [[https://www.interviewbit.com/problems/excel-column-number/][Excel Column Number]]                  |  [[file:C++/titleToNumber.cpp][C++]] [[file:Python/titleToNumber.py][Python]]          |       |
 | Base conversion | [[https://www.interviewbit.com/problems/excel-column-title/][Excel Column Title]]                   | [[file:C++/convertToTitle.cpp][C++]]  [[file:Python/convertToTitle.py][Python]]          |       |
-| Digit op        | Palindrome Integer                   |            |       |
+| Digit op        | [[https://www.interviewbit.com/problems/palindrome-integer/][Palindrome Integer]]                  | [[file:C++/isPalindrome.cpp][C++]] [[file:Python/isPalindrome.py][Python]]          |       |
 | Digit op        | [[https://www.interviewbit.com/problems/reverse-integer/][Reverse Integer]]                      | [[file:C++/reverse.cpp][C++]] [[file:Python/reverse.py][Python]] |       |
 | Number theory   | Greatest Common Divisor              |            |       |
 | Number theory   | Trailing Zeros in Factorial          | [[file:Python/trailingZeros.py][Python]]     |       |
