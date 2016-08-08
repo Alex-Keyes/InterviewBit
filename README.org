@@ -54,7 +54,7 @@ Please issue a pull request if you think you have a better solution or something
 |-----------------+--------------------------------------+------------+-------|
 | Adhoc           | [[https://www.interviewbit.com/problems/prime-sum/][Prime Sum]]                            | [[file:Python/primeSum.py][Python]] [[file:C++/primeSum.cpp][C++]]          |       |
 | Adhoc           | [[https://www.interviewbit.com/problems/power-of-two-integers/][Power of Two Integers]]                | [[file:C++/isPower.cpp][C++]] [[file:Python/isPower.py][Python]] |       |
-| Base conversion | [[https://www.interviewbit.com/problems/excel-column-number/][Excel Column Number]]                  |  [[file:C++/titleToNumber.c++][C++]] [[file:Python/titleToNumber.py][Python]]          |       |
+| Base conversion | [[https://www.interviewbit.com/problems/excel-column-number/][Excel Column Number]]                  |  [[file:C++/titleToNumber.cpp][C++]] [[file:Python/titleToNumber.py][Python]]          |       |
 | Base conversion | Excel Column Title                   |            |       |
 | Digit op        | Palindrome Integer                   |            |       |
 | Digit op        | [[https://www.interviewbit.com/problems/reverse-integer/][Reverse Integer]]                      | [[file:C++/reverse.cpp][C++]] [[file:Python/reverse.py][Python]] |       |
