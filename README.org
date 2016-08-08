@@ -58,7 +58,7 @@ Please issue a pull request if you think you have a better solution or something
 | Base conversion | [[https://www.interviewbit.com/problems/excel-column-title/][Excel Column Title]]                   | [[file:C++/convertToTitle.cpp][C++]]  [[file:Python/convertToTitle.py][Python]]          |       |
 | Digit op        | [[https://www.interviewbit.com/problems/palindrome-integer/][Palindrome Integer]]                  | [[file:C++/isPalindrome.cpp][C++]] [[file:Python/isPalindrome.py][Python]]          |       |
 | Digit op        | [[https://www.interviewbit.com/problems/reverse-integer/][Reverse Integer]]                      | [[file:C++/reverse.cpp][C++]] [[file:Python/reverse.py][Python]] |       |
-| Number theory   | Greatest Common Divisor              |            |       |
+| Number theory   | [[https://www.interviewbit.com/problems/greatest-common-divisor/][Greatest Common Divisor]]              |  [[file:C++/gcd.cpp][C++]] [[file:Python/gcd.py][Python]]        |       |
 | Number theory   | Trailing Zeros in Factorial          | [[file:Python/trailingZeros.py][Python]]     |       |
 | Number theory   | Sorted Permutation Rank              |            |       |
 | Number theory   | Sorted Permutation Rank with Repeats |            |       |
