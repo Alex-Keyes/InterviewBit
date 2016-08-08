@@ -62,7 +62,7 @@ Please issue a pull request if you think you have a better solution or something
 | Number theory   | [[https://www.interviewbit.com/problems/trailing-zeros-in-factorial/][Trailing Zeros in Factorial]]          | [[file:C++/trailingZeros.cpp][C++]] [[file:Python/trailingZeros.py][Python]]     |       |
 | Number theory   | Sorted Permutation Rank              |            |       |
 | Number theory   | Sorted Permutation Rank with Repeats |            |       |
-| Number encoding | Rearrange Array                      |            |       |
+| Number encoding | [[https://www.interviewbit.com/problems/rearrange-array/][Rearrange Array]]                      | [[file:C++/arrange.cpp][C++]] [[file:Python/arrange.py][Python]]            |       |
 | Combinatorics   | Grid Unique Paths                    |            |       |
 
 ** [[https://www.interviewbit.com/courses/programming/topics/binary-search/][Binary Search]]
