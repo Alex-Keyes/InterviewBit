@@ -1,9 +1,7 @@
 [[file:img/ib-logo-square.png]]
 * InterviewBit Solutions
 
-[[https://img.shields.io/badge/languages-Python & C++-orange.svg]]
-
-[[https://img.shields.io/badge/License-GNU-red.svg][https://img.shields.io/badge/License-GNU-red.svg]] [[https://github.com/syl20bnr/spacemacs][file:https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg]]
+[[https://img.shields.io/badge/languages-Python & C++-orange.svg]] [[https://img.shields.io/badge/License-GNU-red.svg][https://img.shields.io/badge/License-GNU-red.svg]] [[https://github.com/syl20bnr/spacemacs][file:https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg]]
 
 This is a repository of solutions to all problems I've solved on InterviewBit.
 I am not quite sure exactly how many problems there are on the website, but I'll be updating this with every problem I solve.
