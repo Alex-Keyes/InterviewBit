@@ -63,7 +63,7 @@ Please issue a pull request if you think you have a better solution or something
 | Number theory   | Sorted Permutation Rank              |            |       |
 | Number theory   | Sorted Permutation Rank with Repeats |            |       |
 | Number encoding | [[https://www.interviewbit.com/problems/rearrange-array/][Rearrange Array]]                      | [[file:C++/arrange.cpp][C++]] [[file:Python/arrange.py][Python]]            |       |
-| Combinatorics   | Grid Unique Paths                    |            |       |
+| Combinatorics   | [[https://www.interviewbit.com/problems/grid-unique-paths/][Grid Unique Paths]]                    | [[file:C++/uniquePaths.cpp][C++]] [[file:Python/uniquePaths.py][Python]]           | Note the difference in length between the Python and C++ solutions       |
 
 ** [[https://www.interviewbit.com/courses/programming/topics/binary-search/][Binary Search]]
 
