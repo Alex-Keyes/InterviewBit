@@ -25,7 +25,7 @@ Please issue a pull request if you think you have a better solution or something
  | Array math                | Add One To Number               |            |                                    |
  | Array math                | Repeat and Missing Number Array |            |                                    |
  | Array math                | Flip                            |            |                                    |
- | Simulation array          | [[(https://www.interviewbit.com/problems/max-non-negative-subarray/][Max Non Negative SubArray]]       | [[/C++/maxSet.cpp][C++]]        |                                    |
+ | Simulation array          | [[https://www.interviewbit.com/problems/max-non-negative-subarray/][Max Non Negative SubArray]]       | [[/C++/maxSet.cpp][C++]]        |                                    |
  | Simulation array          | Kth Row of Pascal's Triangle    |            |                                    |
  | Simulation array          | [[https://www.interviewbit.com/problems/pascal-triangle-rows/][Pascal Triangle Rows]]            | [[/Python/generatePascal.py][Python]]     |                                    |
  | Simulation array          | [[https://www.interviewbit.com/problems/spiral-order-matrix-ii/][Spiral Order Matrix II]]          | [[/C++/generateMatrix.cpp][C++]] [[/Python/generateMatrix.py][Python]] |                                    |
