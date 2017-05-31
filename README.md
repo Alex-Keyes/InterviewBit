@@ -19,7 +19,7 @@ This is a repository of solutions to all problems I've solved on InterviewBit. I
 
 # Problem Lists
 ## [Time Complexity](https://www.interviewbit.com/courses/programming/topics/time-complexity/)
-[Answers](https://github.com/Alex-Keyes/InterviewBit/timeComplexity.md)
+[Answers](https://github.com/Alex-Keyes/InterviewBit/blob/master/timeComplexity.md)
 
 ## [Arrays](https://www.interviewbit.com/courses/programming/topics/arrays)
 ## [Math](http://interviewbit.com/courses/programming/topics/math/)
