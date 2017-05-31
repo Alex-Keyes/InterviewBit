@@ -10,6 +10,7 @@ This is a repository of solutions to all problems I've solved on InterviewBit. I
 
 # Topics
 
+*   [Time Complexity](https://github.com/Alex-Keyes/InterviewBit#Time+Complexity)
 *   [Arrays](https://github.com/Alex-Keyes/InterviewBit#Arrays)
 *   [Math](https://github.com/Alex-Keyes/InterviewBit#Math)
 *   [Binary Search](https://github.com/Alex-Keyes/InterviewBit#Binary+Search)
@@ -17,6 +18,9 @@ This is a repository of solutions to all problems I've solved on InterviewBit. I
 *   [Stack and Queue](https://github.com/Alex-Keyes/InterviewBit#Stack+and+Queue)
 
 # Problem Lists
+## [Time Complexity](https://www.interviewbit.com/courses/programming/topics/time-complexity/)
+[Answers](https://github.com/Alex-Keyes/InterviewBit/timeComplexity.md)
+
 ## [Arrays](https://www.interviewbit.com/courses/programming/topics/arrays)
 ## [Math](http://interviewbit.com/courses/programming/topics/math/)
 ## [Binary Search](https://www.interviewbit.com/courses/programming/topics/binary-search/)
