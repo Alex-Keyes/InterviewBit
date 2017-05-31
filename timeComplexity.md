@@ -13,6 +13,7 @@ Since these questions are all multiple choice I'm going to write down the write 
 | Name | Answer |
 | --- | --- |
 | [WHILE_CMPL](https://www.interviewbit.com/problems/while_cmpl/) | O(log N)
+| [NESTED_CMPL3](https://www.interviewbit.com/problems/nested_cmpl3/) | O(N)
 
 
 ## Compare Functions
@@ -24,7 +25,6 @@ Since these questions are all multiple choice I'm going to write down the write 
 | Name | Answer |
 | --- | --- |
 |[REC_CMPL1](https://www.interviewbit.com/problems/rec_cmpl1/) | O(N)
-| 
 
 # Amortized 
 | Name | Answer |
