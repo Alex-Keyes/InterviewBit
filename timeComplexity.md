@@ -25,6 +25,7 @@ Since these questions are all multiple choice I'm going to write down the write 
 | Name | Answer |
 | --- | --- |
 |[REC_CMPL1](https://www.interviewbit.com/problems/rec_cmpl1/) | O(N)
+|[REC_CMPL2](https://www.interviewbit.com/problems/rec_cmpl2/) | O(2^(R + C))
 
 # Amortized 
 | Name | Answer |
