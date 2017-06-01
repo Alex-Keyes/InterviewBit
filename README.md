@@ -22,6 +22,9 @@ This is a repository of solutions to all problems I've solved on InterviewBit. I
 [Answers](https://github.com/Alex-Keyes/InterviewBit/blob/master/timeComplexity.md)
 
 ## [Arrays](https://www.interviewbit.com/courses/programming/topics/arrays)
+| Category | Name | Answer |
+| --- | --- | --- |
+| Simulation Array |[Pascal Triangle Rows](https://www.interviewbit.com/problems/pascal-triangle-rows/) | [cpp](./C++/generatePascal.cpp) [python](./Python/generatePascal.py) 
 ## [Math](http://interviewbit.com/courses/programming/topics/math/)
 ## [Binary Search](https://www.interviewbit.com/courses/programming/topics/binary-search/)
 ## [Stack and Queue](https://www.interviewbit.com/courses/programming/topics/stacks-and-queues/)
