@@ -20,7 +20,8 @@ Since these questions are all multiple choice I'm going to write down the write 
 | Name | Answer |
 | --- | --- |
 | [CHOOSE1](https://www.interviewbit.com/problems/choose1/) | n^3 / (sqrt(n))
-| [CHOOSE3](https://www.interviewbit.com/problems/choose3/) | c |
+| [CHOOSE2](https://www.interviewbit.com/problems/choose2/) | f3, f2, f4, f1
+| [CHOOSE3](https://www.interviewbit.com/problems/choose3/) | c 
 
 ## Function calling itself
 | Name | Answer |
