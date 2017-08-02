@@ -21,6 +21,8 @@ This is a repository of solutions to all problems I've solved on InterviewBit. I
 ## [Time Complexity](https://www.interviewbit.com/courses/programming/topics/time-complexity/)
 [Answers](https://github.com/Alex-Keyes/InterviewBit/blob/master/timeComplexity.md)
 
+ <!--  my birthday, where we are going skiing - vail and what's happening this weekend -->
+
 ## [Arrays](https://www.interviewbit.com/courses/programming/topics/arrays)
 | SubTopic | Title | Solution | Notes |
 | ---      | ---   | ---      | ---   |
@@ -29,7 +31,7 @@ This is a repository of solutions to all problems I've solved on InterviewBit. I
 | Array math                | [Max Sum Contiguous Subarray](https://www.interviewbit.com/problems/max-sum-contiguous-subarray/)         | [C++](/C++/maxSubArray.cpp)                                        |                                    |
 | Array math                | [Add One To Number](https://www.interviewbit.com/problems/add-one-to-number/)                             | [Python](/Python/addone.py)                                        |                                    |
 | Array math                | [Repeat and Missing Number Array](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Python](/Python/repeatedNumber.py)                                |                                    |
-| Array math                | Flip                                                                                                      |                                                                    |                                    |
+| Array math                | [Flip](https://www.interviewbit.com/problems/flip/)                                                       | [Python](/Python/flip.py)                                          |                                    |
 | Simulation array          | [Max Non Negative SubArray](https://www.interviewbit.com/problems/max-non-negative-subarray/)             | [C++](/C++/maxSet.cpp) [Python](file:Python/maxSet.py)             |                                    |
 | Simulation array          | Kth Row of Pascal's Triangle                                                                              |                                                                    |                                    |
 | Simulation array          | [Pascal Triangle Rows](https://www.interviewbit.com/problems/pascal-triangle-rows/)                       | [Python](/Python/generatePascal.py)                                |                                    |
